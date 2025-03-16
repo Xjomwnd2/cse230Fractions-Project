@@ -1,0 +1,12 @@
+{
+  "name": "cse230fractions-project",
+  "version": "1.0.0",
+  "description": "This is the starter code for students in the worldwide content version of CSE 210.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
